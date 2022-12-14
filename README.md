@@ -15,7 +15,7 @@
 - **Ranglar Sxemasi:** [`Powerline`](https://github.com/b-ryan/powerline-shell)
 
 <hr />
-<img src="./assets/win-arch-2.png" alt="Windows & Linux" align="center">
+<img src="./assets/arch-new.png" alt="Windows & Linux" align="center">
 
 - **Operatsion Tizim:** Arch Linux on Windows 10 Pro x86_64
 - **Terminal:** Fish
