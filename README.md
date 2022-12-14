@@ -32,5 +32,3 @@
 <img src="./ilosrim/firefox-theme/images/ff_protonbutquantum.png" alt="Windows PowerShell config" align="center">
 
 - **Operatsion Tizim:** Parqinsa
-
-<h3 align="center">Bu yerda sizning konfiglaringiz bo'lishi mumkin...</h3>
