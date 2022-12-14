@@ -24,7 +24,7 @@
 <hr />
 <img src="./assets/winMacUx.png" alt="Windows Mac Linux" align="center">
 
-- **Operatsion Tizim:** Ubuntu on Windows 10 Pro 86_64
+- **Operatsion Tizim:** Ubuntu on Windows 10 Pro x86_64
 - **Terminal:** Fish
 - **Shrift:** Hack Regular Nerd Font
 
