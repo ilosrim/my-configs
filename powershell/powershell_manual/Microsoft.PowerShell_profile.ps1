@@ -31,7 +31,7 @@ function Write-BranchName () {
 	}
 }
 
-function prompt {
+function Prompt {
 	$base = "mirjr@$env:COMPUTERNAME "
 	$date = (get-date -Format "yyyy-MM-dd HH:mm:ss")
 	$path = "$($executionContext.SessionState.Path.CurrentLocation)" # $(Get-Location | Split-Path -Leaf)
@@ -55,7 +55,7 @@ function prompt {
 
 
 # Arxiv
-# function Prompt
+# function prompt
 # {
 #     write-host "mirjr@$env:COMPUTERNAME " -ForegroundColor DarkGreen -NoNewline
 #     write-host (get-date -Format "yyyy-MM-dd HH:mm:ss") -ForegroundColor Yellow -NoNewline
