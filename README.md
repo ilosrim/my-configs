@@ -1,6 +1,6 @@
 <h3 align="center"><b>ilosrim</b></h3>
 
-<img src="./assets/powershell.png" alt="Windows PowerShell config" align="center">
+<img src="./assets/windows10.png" alt="Windows PowerShell config" align="center">
 
 - **Operatsion Tizim:** Windows 10 Pro x86_64
 - **Terminal:** PowerShell Terminal
@@ -27,7 +27,6 @@
 - **Operatsion Tizim:** Ubuntu on Windows 10 Pro x86_64
 - **Terminal:** Fish
 - **Shrift:** Hack Regular Nerd Font
-
 
 <hr />
 <img src="./firefox-theme/images/ff_protonbutquantum.png" alt="Windows PowerShell config" align="center">
