@@ -38,8 +38,8 @@ function Prompt {
 	$userPrompt = "$('$' * ($nestedPromptLevel + 1)) "
 
 	Write-Host "`n$base" -ForegroundColor DarkGreen -NoNewline
-	write-host "$date" -ForegroundColor Yellow -NoNewline
-	write-host " | " -ForegroundColor DarkGray -NoNewline
+	Write-Host "$date" -ForegroundColor Yellow -NoNewline
+	Write-Host " | " -ForegroundColor DarkGray -NoNewline
 
 	if (Test-Path .git) {
 		Write-Host $path -NoNewline -ForegroundColor Yellow
