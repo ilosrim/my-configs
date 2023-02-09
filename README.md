@@ -1,4 +1,12 @@
-<h3 align="center"><b>ilosrim</b></h3>
+<h3 align="center"><b>My configs</b></h3>
+
+<img src="./assets/fuckinux.png" alt="Windows PowerShell config" align="center">
+
+- **Operatsion Tizim:** Fuckinux 0.0.1 LTS x86_64
+- **Terminal:** Gnome Terminal
+- **Shell:** Bash 5.1.16
+
+<hr />
 
 <img src="./assets/windows10.png" alt="Windows PowerShell config" align="center">
 
