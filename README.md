@@ -1,4 +1,24 @@
-<h3 align="center"><b>My configs</b></h3>
+# ilosrim's Configs
+
+This repository, `ilosrim/my-configs`, is a curated collection of configuration files and scripts that streamline the development environment setup. It serves as a personal toolkit to maintain consistency across various systems and projects.
+
+## Features
+- **Dotfiles:** Easy-to-use configuration files for bash, git, and more.
+- **Scripts:** Handy scripts to automate routine tasks.
+- **Customization:** Options to personalize your development workspace.
+- **Portability:** Quickly set up your preferred environment on any new machine.
+
+## Usage
+Clone the repository to your local machine and follow the instructions in the README to apply the configurations to your system.
+
+## Contributions
+Suggestions and contributions are welcome! If you have improvements or additional configurations that could benefit others, please submit a pull request.
+
+Discover the power of a personalized, efficient development environment with ilosrim's Configs.
+
+
+
+<h3 align="center"><b>Examples</b></h3>
 
 <img src="./assets/fuckinux2.png" alt="Windows PowerShell config" align="center">
 
