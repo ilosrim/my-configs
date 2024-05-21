@@ -3,22 +3,31 @@
 This repository, `ilosrim/my-configs`, is a curated collection of configuration files and scripts that streamline the development environment setup. It serves as a personal toolkit to maintain consistency across various systems and projects.
 
 ## Features
+
 - **Dotfiles:** Easy-to-use configuration files for bash, git, and more.
 - **Scripts:** Handy scripts to automate routine tasks.
 - **Customization:** Options to personalize your development workspace.
 - **Portability:** Quickly set up your preferred environment on any new machine.
 
 ## Usage
+
 Clone the repository to your local machine and follow the instructions in the README to apply the configurations to your system.
 
 ## Contributions
+
 Suggestions and contributions are welcome! If you have improvements or additional configurations that could benefit others, please submit a pull request.
 
 Discover the power of a personalized, efficient development environment with ilosrim's Configs.
 
-
-
 <h3 align="center"><b>Examples</b></h3>
+
+<img src="./assets/wsl.png" alt="Windows PowerShell config" align="center">
+
+- **Operatsion Tizim:** Ubuntu 24.04 LTS on Windows 10 x86_64
+- **Terminal:** Windows Terminal
+- **Shell:** zsh 5.9
+
+<hr />
 
 <img src="./assets/fuckinux2.png" alt="Windows PowerShell config" align="center">
 
@@ -57,6 +66,3 @@ Discover the power of a personalized, efficient development environment with ilo
 - **Shrift:** Hack Regular Nerd Font
 
 <hr />
-<img src="./firefox-theme/images/ff_protonbutquantum.png" alt="Windows PowerShell config" align="center">
-
-- **Operatsion Tizim:** Parqinsa
