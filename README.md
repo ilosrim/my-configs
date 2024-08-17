@@ -1,5 +1,6 @@
-# ilosrim's Configs
+# ilosrim's configs
 
+<!-- 
 This repository, `ilosrim/my-configs`, is a curated collection of configuration files and scripts that streamline the development environment setup. It serves as a personal toolkit to maintain consistency across various systems and projects.
 
 ## Features
@@ -20,6 +21,7 @@ Suggestions and contributions are welcome! If you have improvements or additiona
 Discover the power of a personalized, efficient development environment with ilosrim's Configs.
 
 <h3 align="center"><b>Examples</b></h3>
+-->
 
 <img src="./assets/arch.png" alt="Arch neofetch" align="center">
 
