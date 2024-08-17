@@ -21,6 +21,14 @@ Discover the power of a personalized, efficient development environment with ilo
 
 <h3 align="center"><b>Examples</b></h3>
 
+<img src="./assets/arch.png" alt="Arch neofetch" align="center">
+
+- **Operatsion Tizim:** Arch Linux x86_64
+- **Terminal:** kitty
+- **Shell:** zsh 5.9
+
+<hr />
+
 <img src="./assets/wsl.png" alt="Windows PowerShell config" align="center">
 
 - **Operatsion Tizim:** Ubuntu 24.04 LTS on Windows 10 x86_64
